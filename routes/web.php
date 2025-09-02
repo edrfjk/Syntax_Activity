@@ -20,3 +20,6 @@ Route::get('/sheran', function () {
     return view('sheran');
 });
 
+Route::get('/rayver', function () {
+    return view('rayver');
+});
