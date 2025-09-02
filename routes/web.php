@@ -12,3 +12,7 @@ Route::get('/eidref', function () {
     return view('eidref');
 });
 
+Route::get('/yuri', function () {
+    return view('yuri');
+});
+
